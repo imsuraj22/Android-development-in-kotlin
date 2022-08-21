@@ -1,7 +1,4 @@
-DessertClicker - Code
-=====================
-
-Code for Android Basics Codelab.
+# Dessert clicker App
 
 Introduction
 ------------
@@ -9,20 +6,7 @@ Introduction
 DessertClicker is a game about making desserts. Press the button, make a dessert,
 earn the big bucks.
 
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
+<img src="https://user-images.githubusercontent.com/100610668/185786011-cfe4762e-f798-4abe-95d6-50f4d967b0b3.jpeg" width=500/>
 
 
-Getting Started
----------------
 
-1. Download and run the app.
