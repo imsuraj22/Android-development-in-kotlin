@@ -1,39 +1,8 @@
-Amphibians - Starter Code
-==================================
+# Amphibians App
 
-Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
-with Unit 4 of Android Basics in Kotlin
-
-Introduction
-------------
-
-This is the starter code for the Amphibian app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 4 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+<p float="left">
+<img src="https://user-images.githubusercontent.com/100610668/185921064-44574e0d-ae40-4a4f-bc0f-dcfa6aca7685.jpeg" width =400/>
+<img src="https://user-images.githubusercontent.com/100610668/185921125-38ab499e-12d6-4229-8b65-4f46b3bdfa6f.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/185921182-76ea22a7-90f0-4aab-afd3-9586d4b7c146.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/185921293-e8a3d18b-38a4-4646-a917-59e214fcc8a3.jpeg" width=400/>
+</p>
