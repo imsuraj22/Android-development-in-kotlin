@@ -1,41 +1,8 @@
-Forage - Starter Code
-==================================
+# Forage App
 
-Starter code for the fifth independent project for Android Basics in Kotlin. This project pairs
-with Unit 5 of Android Basics in Kotlin
-
-Introduction
-------------
-
-This is the starter code for the Forage app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 5 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-- Complete Project 4: Amphibians
-- Complete Unit 5 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+<p float="left">
+<img src="https://user-images.githubusercontent.com/100610668/185923902-225bdf3f-a895-495e-ae3a-8af229bd7f59.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/185923987-59c2dfc6-4f11-4a74-9ec1-d464da7a1e61.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/185924050-336ad4d4-9fbb-4dfa-b900-fc356c0df914.jpeg" width=400/>
+<img src="https://user-images.githubusercontent.com/100610668/185924105-f2abccbd-6b02-4a3e-88bb-f7c26f789b7f.jpeg" width=400/>
+</p>
